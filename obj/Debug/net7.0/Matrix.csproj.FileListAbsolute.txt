@@ -1,0 +1,15 @@
+E:\Matrix\obj\Debug\net7.0\Matrix.csproj.AssemblyReference.cache
+E:\Matrix\obj\Debug\net7.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\Matrix\obj\Debug\net7.0\Matrix.AssemblyInfoInputs.cache
+E:\Matrix\obj\Debug\net7.0\Matrix.AssemblyInfo.cs
+E:\Matrix\obj\Debug\net7.0\Matrix.csproj.CoreCompileInputs.cache
+E:\Matrix\bin\Debug\net7.0\Matrix.exe
+E:\Matrix\bin\Debug\net7.0\Matrix.deps.json
+E:\Matrix\bin\Debug\net7.0\Matrix.runtimeconfig.json
+E:\Matrix\bin\Debug\net7.0\Matrix.dll
+E:\Matrix\bin\Debug\net7.0\Matrix.pdb
+E:\Matrix\obj\Debug\net7.0\Matrix.dll
+E:\Matrix\obj\Debug\net7.0\refint\Matrix.dll
+E:\Matrix\obj\Debug\net7.0\Matrix.pdb
+E:\Matrix\obj\Debug\net7.0\Matrix.genruntimeconfig.cache
+E:\Matrix\obj\Debug\net7.0\ref\Matrix.dll
